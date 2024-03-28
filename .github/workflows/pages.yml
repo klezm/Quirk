@@ -6,7 +6,7 @@ on:
     paths-ignore:
       - '.devcontainer/**'
       - '.vscode/**'
-      - 'out/**'
+      # - 'out/**'
   workflow_dispatch:
 
 jobs:
